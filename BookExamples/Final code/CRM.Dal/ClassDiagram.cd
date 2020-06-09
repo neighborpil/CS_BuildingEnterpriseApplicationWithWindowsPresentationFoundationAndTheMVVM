@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Base contract for any UnitOfWork">
+    <Position X="3.562" Y="0.5" Height="0.458" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Base contract for any Repository">
+    <Position X="0.5" Y="0.5" Height="0.458" Width="1.7" />
+  </Comment>
+  <Comment CommentText="SessionFactory specific for an O/RM">
+    <Position X="6.427" Y="0.5" Height="0.458" Width="1.7" />
+  </Comment>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="CRM.Dal.IUnitOfWork">
+    <Position X="3.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAABIAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>IUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="orm" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="CRM.Dal.IRepository">
+    <Position X="0.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAFAAAAAAAEAAAAAIAAAAAAAAI=</HashCode>
+      <FileName>IRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UoW" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="CRM.Dal.ISessionFactory">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISessionFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CurrentUoW" />
+    </ShowAsAssociation>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

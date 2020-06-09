@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Define methods to configure the Engine">
+    <Position X="3.062" Y="0.5" Height="0.5" Width="1.388" />
+  </Comment>
+  <Comment CommentText="Define methods to Listen the Engine's events">
+    <Position X="5.062" Y="0.5" Height="0.625" Width="1.388" />
+  </Comment>
+  <Comment CommentText="Fluent Syntax class">
+    <Position X="0.635" Y="0.5" Height="0.312" Width="1.263" />
+  </Comment>
+  <Comment CommentText="Concrete impletentation of the Fluent Interfaces --&gt;&gt;">
+    <Position X="3.26" Y="3.354" Height="0.312" Width="3.263" />
+  </Comment>
+  <Class Name="CRM.BL.WF.ConcreteEngine">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAACAACAAAABAAEQAAAAAAAAAABAAAAAAAAI=</HashCode>
+      <FileName>ConcreteEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CRM.BL.WF.FluentEngine">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAAA=</HashCode>
+      <FileName>FluentEngine.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="engine" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="CRM.BL.WF.IConfigure">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAABAAEQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>IConfigure.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CRM.BL.WF.IEvents">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAACAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAI=</HashCode>
+      <FileName>IEvents.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,62 @@
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.BL.WF.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.BL.WF.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\CanAddAnOrder.g.xaml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\_CRM.BL.WF.g.cs
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\CanAddAnOrder.g.cs
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\InProcessTempFiles\CanAddAnOrder.g.cs
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\InProcessTempFiles\CanAddAnOrder.g.xaml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\obj\Debug\InProcessTempFiles\_CRM.BL.WF.g.cs
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Domain.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Domain.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.BL.WF.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.BL.WF.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Domain.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Domain.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\CanAddAnOrder.g.xaml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\_CRM.BL.WF.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\CanAddAnOrder.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\InProcessTempFiles\CanAddAnOrder.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\InProcessTempFiles\CanAddAnOrder.g.xaml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\InProcessTempFiles\_CRM.BL.WF.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.BL.WF\obj\Debug\CRM.BL.WF.pdb

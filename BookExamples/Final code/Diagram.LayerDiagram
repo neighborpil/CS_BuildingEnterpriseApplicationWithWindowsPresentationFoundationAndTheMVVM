@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="a0dfc517-e05b-4d39-a4a7-7cd74cad5ef5" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="129c0616-e2fc-4b04-b7ae-561f44e5dd1d" name="CRM.Domain">
+      <references>
+        <reference Id="208f422e-6494-4419-ae01-3fb0effff6a1" name="CRM.Domain">
+          <ArtifactNode Label="CRM.Domain" Category="CodeSchema_Project" Id="(Assembly=&quot;$(DesktopUri)/Book/Chapter 03/CRM Domain Model/CRM Domain Model/CRM.Domain.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=&quot;CRM Domain Model&quot;)" Label="CRM Domain Model.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="bc179819-6b38-4836-b8b7-acb2ae5ffce0" name="CRM.Dal">
+      <references>
+        <reference Id="c619dc07-ba8f-4f12-94f8-984de04b120c" name="CRM.Dal">
+          <ArtifactNode Label="CRM.Dal" Category="CodeSchema_Project" Id="(Assembly=&quot;$(DesktopUri)/Book/Chapter 03/CRM Domain Model/CRM.Dal/CRM.Dal.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=CRM.Dal)" Label="CRM.Dal.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="5acaecfc-f9cc-4042-919f-ed814a0689b8" name="CRM.Dal.EF">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="0270eebd-b49b-4dba-90a6-24cb81654373" direction="Forward">
+          <layerMoniker Id="bc179819-6b38-4836-b8b7-acb2ae5ffce0" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="ded114ea-7c94-47aa-ba09-d4b7fdc4ed01" name="CRM.Dal.EF">
+          <ArtifactNode Label="CRM.Dal.EF" Category="CodeSchema_Project" Id="(Assembly=&quot;$(DesktopUri)/Book/Chapter 03/CRM Domain Model/CRM.Dal.EF/CRM.Dal.EF.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=CRM.Dal.EF)" Label="CRM.Dal.EF.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="b28709a2-acb7-4164-bd9e-11ec95a9e1bc" name="CRM.Dal.Nhibernate">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="59026780-b276-413d-8a14-d1111a0504d6" direction="Forward">
+          <layerMoniker Id="bc179819-6b38-4836-b8b7-acb2ae5ffce0" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="954fe408-dbaf-4378-932a-5167170289b1" name="CRM.Dal.Nhibernate">
+          <ArtifactNode Label="CRM.Dal.Nhibernate" Category="CodeSchema_Project" Id="(Assembly=&quot;$(DesktopUri)/Book/Chapter 03/CRM Domain Model/CRM.Dal.Nhibernate/CRM.Dal.Nhibernate.csproj&quot;)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=CRM.Dal.Nhibernate)" Label="CRM.Dal.Nhibernate.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+  </layers>
+</layerModel>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping
+  xmlns="urn:nhibernate-mapping-2.2"
+  assembly="CRM.Domain"
+  namespace="CRM.Domain.Domain"
+  default-lazy="false">
+  <class name="Person" abstract="true"
+         table="Person">
+    <id name="PrimaryKey">
+      <column name="PK_Person" />
+      <generator class="guid.comb" />
+      
+    </id>
+    <property name="BirthDate" />
+    <property name ="FirstName" />
+    <property name="LastName" />
+    <property name="IsActive" />
+    <property name="Title" />
+    <bag name="Contacts" inverse="true" cascade="all">
+      <key column="PK_Person" foreign-key="FK_Contacts" />
+      <one-to-many class="Contact"/>
+    </bag>
+    <joined-subclass name="Employee" abstract="false" table="Employee">
+      <key column="PrimaryKey" />
+    </joined-subclass>
+    <joined-subclass name="Customer" abstract="false" table="Customer">
+      <key column="PrimaryKey" />
+      <bag name="Addresses" inverse="true" cascade="all">
+        <key column="PK_Person" foreign-key="FK_Addresses" />
+        <one-to-many class="Address"/>
+      </bag>
+      <many-to-one class="Address" name="DefaultAddress" access="readonly" not-null="false" not-found="ignore">
+        <column name="DefaultAddress" />
+      </many-to-one>
+    </joined-subclass>
+  </class>
+         
+</hibernate-mapping>

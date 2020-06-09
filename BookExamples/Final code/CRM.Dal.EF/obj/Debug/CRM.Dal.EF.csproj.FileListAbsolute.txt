@@ -1,0 +1,47 @@
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.EF.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.EF.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\obj\Debug\CRM.Dal.EF.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\obj\Debug\CRM.Dal.EF.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.EF.dll.config
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Domain.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Domain.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.EF.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.EF.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Domain.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Domain.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\obj\Debug\CRM.Dal.EF.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal.EF\obj\Debug\CRM.Dal.EF.pdb

@@ -1,0 +1,118 @@
+﻿<UserControl x:Class="CRM.MVVM.WPF.DetailsView.CustomerDetails"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:m="clr-namespace:CRM.Domain.Domain;assembly=CRM.Domain"
+             mc:Ignorable="d" 
+             d:DesignHeight="276" d:DesignWidth="481" DataContext="{Binding}"
+             d:DataContext="{d:DesignData Source='/DesignData/CustomerSampleData.xaml'}">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type TextBlock}" x:Key="TitleStyle">
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontStyle" Value="Italic" />
+            <Setter Property="Foreground" Value="DarkBlue" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Margin" Value="5" />
+         </Style>
+        <Style TargetType="{x:Type TextBlock}">
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Validation.ErrorTemplate">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Grid>
+                            <Polygon Points="0,0 10,0 0,10 0,0" HorizontalAlignment="Right" Fill="Red" FlowDirection="RightToLeft"></Polygon>
+                            <Border BorderBrush="Red" BorderThickness="1">
+                                <AdornedElementPlaceholder Name="controlWithError" />
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Margin" Value="5" />
+        </Style>
+        <Style TargetType="{x:Type DatePickerTextBox}">
+            <Setter Property="Margin" Value="5" />
+        </Style>
+    </UserControl.Resources>
+    <Grid DataContext="{Binding Path=Model}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="10" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="7"
+            Style="{StaticResource TitleStyle}">
+            <TextBlock.Text>
+                <MultiBinding StringFormat="{}View Customer: {0} {1}">
+                    <Binding Path="FirstName" />
+                    <Binding Path="LastName"/>
+                </MultiBinding>
+            </TextBlock.Text>
+        </TextBlock>
+        <GroupBox 
+            Header="Customer Details"
+            Grid.Row="1" Grid.Column="0" 
+            Grid.ColumnSpan="4" Grid.RowSpan="7">
+            <StackPanel>
+                <TextBlock>First Name :</TextBlock>
+                <TextBox Text="{Binding ValidatesOnDataErrors=True, Path=FirstName, ValidatesOnExceptions=True}" BorderBrush="Red"></TextBox>
+                <TextBlock>Last Name :</TextBlock>
+                <TextBox Text="{Binding Path=LastName, ValidatesOnExceptions=True, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="Data of Birth :" />
+                <!--<DatePickerTextBox Text="{Binding Path=BirthDate.Date, StringFormat=\{0:d\}}" />-->
+                <TextBlock>Is Active :</TextBlock>
+                <CheckBox IsChecked="{Binding IsActive}" />
+            </StackPanel>            
+        </GroupBox>
+        <TextBlock Grid.Column="5" Grid.Row="1">Contacts :</TextBlock>
+        <ListBox ItemsSource="{Binding Contacts}"
+            Grid.Column="5" Grid.ColumnSpan="3" 
+            Grid.Row="2" Grid.RowSpan="3">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text=" : " />
+                        <TextBlock Text="{Binding Number}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBlock Grid.Column="5" Grid.Row="5">Addresses :</TextBlock>
+        <ListBox ItemsSource="{Binding Addresses}" 
+            Grid.Column="5" Grid.Row="6" 
+            Grid.ColumnSpan="3" Grid.RowSpan="2" DataContext="{Binding}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                    <TextBlock Grid.Column="0" Text="{Binding City, StringFormat=\{0\}}" />
+                        <TextBlock Grid.Column="1" Text="{Binding State, StringFormat=  -  \{0\}}" />
+                        <TextBlock Grid.Column="2" Text="{Binding ZipCode, StringFormat=  -  \{0\}}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

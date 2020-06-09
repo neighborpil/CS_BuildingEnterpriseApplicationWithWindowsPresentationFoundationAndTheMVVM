@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Practices.EnterpriseLibrary.Validation/4.0.30319": {
+        "type": "package",
+        "compile": {
+          "lib/net/Microsoft.Practices.EnterpriseLibrary.Validation.dll": {}
+        },
+        "runtime": {
+          "lib/net/Microsoft.Practices.EnterpriseLibrary.Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Practices.EnterpriseLibrary.Validation/4.0.30319": {
+      "sha512": "8q67A/aGkJ8NO1ah902RFOBQAWcuLBox6RBOE9vyo5Ggt1gb3hDBX1f3RPszodXivijGVlyBG4agadxSeMLacA==",
+      "type": "package",
+      "path": "microsoft.practices.enterpriselibrary.validation/4.0.30319",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/Microsoft.Practices.EnterpriseLibrary.Validation.dll",
+        "microsoft.practices.enterpriselibrary.validation.4.0.30319.nupkg.sha512",
+        "microsoft.practices.enterpriselibrary.validation.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Practices.EnterpriseLibrary.Validation >= 4.0.30319"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SEC\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Work\\GitRepository\\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\\CodeExamples\\CH03_CRM.Domain\\CH03_CRM.Domain.csproj",
+      "projectName": "CH03_CRM.Domain",
+      "projectPath": "D:\\Work\\GitRepository\\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\\CodeExamples\\CH03_CRM.Domain\\CH03_CRM.Domain.csproj",
+      "packagesPath": "C:\\Users\\SEC\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\GitRepository\\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\\CodeExamples\\CH03_CRM.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.Practices.EnterpriseLibrary.Validation": {
+            "target": "Package",
+            "version": "[4.0.30319, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 '.NETCoreApp,Version=v3.1' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'Microsoft.Practices.EnterpriseLibrary.Validation 4.0.30319'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "Microsoft.Practices.EnterpriseLibrary.Validation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

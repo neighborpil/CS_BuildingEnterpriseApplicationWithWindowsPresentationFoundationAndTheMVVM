@@ -1,0 +1,27 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- ICONS BEGIN-->
+    <BitmapImage x:Key="SmallCut" UriSource="Icons/Small/Cut.png" />
+    <BitmapImage x:Key="MediumCut" UriSource="Icons/Medium/Cut.png" />
+    <BitmapImage x:Key="SmallEmployees" UriSource="Icons/Small/Employees.png" />
+    <BitmapImage x:Key="MediumEmployees" UriSource="Icons/Medium/Employees.png" />
+    <BitmapImage x:Key="SmallCustomers" UriSource="Icons/Small/Users.png" />
+    <BitmapImage x:Key="MediumCustomers" UriSource="Icons/Medium/Users.png" />
+    <BitmapImage x:Key="SmallNew" UriSource="Icons/Small/New.png" />
+    <BitmapImage x:Key="MediumNew" UriSource="Icons/Medium/New.png" />
+    <BitmapImage x:Key="SmallProducts" UriSource="Icons/Small/Products.png" />
+    <BitmapImage x:Key="MediumProducts" UriSource="Icons/Medium/Products.png" />
+    <BitmapImage x:Key="SmallSave" UriSource="Icons/Small/Save.png" />
+    <BitmapImage x:Key="MediumSave" UriSource="Icons/Medium/Save.png" />
+    <BitmapImage x:Key="SmallUsers" UriSource="Icons/Small/Users.png" />
+    <BitmapImage x:Key="MediumUsers" UriSource="Icons/Medium/Users.png" />
+    <BitmapImage x:Key="SmallSearch" UriSource="Icons/Small/Search.png" />
+    <BitmapImage x:Key="MediumSearch" UriSource="Icons/Medium/Search.png" />
+    <BitmapImage x:Key="SmallDelete" UriSource="Icons/Small/Delete.png" />
+    <BitmapImage x:Key="MediumDelete" UriSource="Icons/Medium/Delete.png" />
+    <BitmapImage x:Key="SmallAdd" UriSource="Icons/Small/Add.png" />
+    <BitmapImage x:Key="MediumAdd" UriSource="Icons/Medium/Add.png" />
+    <BitmapImage x:Key="SmallRemove" UriSource="Icons/Small/Remove.png" />
+    <BitmapImage x:Key="MediumRemove" UriSource="Icons/Medium/Remove.png" />
+    <!-- ICONS END -->
+</ResourceDictionary>

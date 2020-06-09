@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="CRM.MVVM.WPF.TreeViews.CustomersTree"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:Domain="clr-namespace:CRM.Domain.Domain;assembly=CRM.Domain" xmlns:e="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:GalaSoft_MvvmLight_Command="clr-namespace:GalaSoft.MvvmLight.Command;assembly=GalaSoft.MvvmLight.Extras.WPF4" mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <DockPanel LastChildFill="True">
+        <StackPanel
+            Height="35"
+            FlowDirection="LeftToRight"
+            Orientation="Horizontal"
+            DockPanel.Dock="Top">
+            <Label Margin="1" FontWeight="Bold">Criteria :</Label>
+            <TextBox Margin="1" Height="26"  Width="150" Text="{Binding Path=SearchText}"></TextBox>
+            <Button Margin="1" Height="26" Width="80" Command="{Binding Path=SearchCommand}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Margin="1" Height="16" Width="16" Source="{StaticResource SmallSearch}" />
+                    <TextBlock Margin="1">Search</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <TreeView 
+            x:Name="treeCustomers"
+            VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+            DockPanel.Dock="Bottom">
+            <e:Interaction.Triggers>
+                <e:EventTrigger EventName="SelectedItemChanged">
+                    <GalaSoft_MvvmLight_Command:EventToCommand 
+                        Command="{Binding SelectedCustomerChanged}" 
+                        CommandParameter="{Binding ElementName=treeCustomers,Path=SelectedValue}"/>
+                </e:EventTrigger>
+            </e:Interaction.Triggers>
+            <TreeViewItem 
+                IsExpanded="True" Header="Customers" ItemsSource="{Binding Path=Model}">
+            </TreeViewItem>
+            <TreeView.Resources>
+                <HierarchicalDataTemplate DataType="{x:Type Domain:Customer}">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{StaticResource SmallCustomers}" />
+                    <TextBlock Margin="5, 0">
+                        <TextBlock.Text>
+                            <MultiBinding StringFormat=" {0} {1}">
+                                <Binding Path="FirstName" />                                
+                                <Binding Path="LastName" />                                
+                            </MultiBinding>
+                        </TextBlock.Text>
+                    </TextBlock>
+                        
+                    </StackPanel>
+                </HierarchicalDataTemplate>
+            </TreeView.Resources>
+        </TreeView>
+    </DockPanel>
+</UserControl>

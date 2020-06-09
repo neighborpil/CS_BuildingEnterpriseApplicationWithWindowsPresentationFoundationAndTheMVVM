@@ -1,0 +1,19 @@
+*** THE FOLLOWING APPLICATION IS A GUIDELINE ON HOW TO BUILD MVVM APPLICATIONS AND LOB UI ***
+
+INSTRUCTIONS
+
+1) You need a version of SQL SERVER 2008, also EXPRESS (FREE)
+2) Install the database file available in the folder
+3) Change the connection string in the projects: 
+   CRM.Dal.NHibernate.Fixture
+   CRM.Dal.EF.Fixture
+   CRM.MVVM.WPF
+4) Run the Fixtures in the NHibernate project or in the EF project in order to create the database schema
+5) Run the WPF project and access and read the data. 
+
+NOTE
+The application is a DEMO application that applies the Book's rules to a LOB application.
+It has been implemented using MVVM, WPF and NHibernate. It is up to you if you want to implement it using
+Silverlight or Entity Framework.
+
+For any issue you can contact the author: Raffaele Garofalo, on his blog http://blog.raffaeu.com

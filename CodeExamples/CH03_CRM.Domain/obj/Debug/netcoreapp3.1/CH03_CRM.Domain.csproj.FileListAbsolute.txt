@@ -1,0 +1,5 @@
+D:\Work\GitRepository\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\CodeExamples\CH03_CRM.Domain\bin\Debug\netcoreapp3.1\CH03_CRM.Domain.deps.json
+D:\Work\GitRepository\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\CodeExamples\CH03_CRM.Domain\bin\Debug\netcoreapp3.1\CH03_CRM.Domain.dll
+D:\Work\GitRepository\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\CodeExamples\CH03_CRM.Domain\obj\Debug\netcoreapp3.1\CH03_CRM.Domain.csprojAssemblyReference.cache
+D:\Work\GitRepository\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\CodeExamples\CH03_CRM.Domain\obj\Debug\netcoreapp3.1\CH03_CRM.Domain.AssemblyInfoInputs.cache
+D:\Work\GitRepository\CS_BuildingEnterpriseApplicationWithWindowsPresentationFoundationAndTheMVVM\CodeExamples\CH03_CRM.Domain\obj\Debug\netcoreapp3.1\CH03_CRM.Domain.AssemblyInfo.cs

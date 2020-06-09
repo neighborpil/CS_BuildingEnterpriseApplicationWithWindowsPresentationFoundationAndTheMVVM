@@ -1,0 +1,106 @@
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.WPF.exe
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.WPF.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\App.g.cs
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF_MarkupCompile.cache
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.g.resources
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.Properties.Resources.resources
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.exe
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\DetailsView\CustomerDetails.baml
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\DetailsView\CustomerDetails.g.cs
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Domain.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Domain.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.WPF.exe
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.WPF.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Domain.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Domain.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\DetailsView\CustomerDetails.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\DetailsView\CustomerDetails.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\App.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF_MarkupCompile.cache
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.g.resources
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.Properties.Resources.resources
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.exe
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Odyssey.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\Resources\ImagesDictionary.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\TreeViews\EmployeesTree.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\App.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\TreeViews\EmployeesTree.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\CRM.MVVM.WPF_MarkupCompile.lref
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\TreeViews\CustomersTree.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\TreeViews\ProductsTree.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\TreeViews\CustomersTree.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\TreeViews\ProductsTree.g.cs
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\hibernate.cfg.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Dal.Nhibernate.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\NHibernate.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Iesi.Collections.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Dal.Nhibernate.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\NHibernate.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\NHibernate.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Iesi.Collections.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Iesi.Collections.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\CRM.MVVM.WPF.exe.config
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\NHibernate.ByteCode.LinFu.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\NHibernate.ByteCode.LinFu.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\Microsoft.Expression.Interactivity.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\DetailsView\EmployeeDetails.baml
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.MVVM.WPF\obj\x86\Debug\DetailsView\EmployeeDetails.g.cs

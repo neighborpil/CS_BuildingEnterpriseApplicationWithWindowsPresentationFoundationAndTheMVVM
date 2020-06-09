@@ -1,0 +1,575 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ErrorMessage" priority="2" />
+      <Item value="prop" priority="1" />
+      <Item value="ContactType`0" priority="1" />
+      <Item value="CalculateTotal`0" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="Person`0" priority="0" />
+      <Item value="private" priority="17" />
+      <Item value="T`0" priority="4" />
+      <Item value="ctor" priority="7" />
+      <Item value="this" priority="49" />
+      <Item value="model" priority="5" />
+      <Item value="void" priority="20" />
+      <Item value="Action`0" priority="1" />
+      <Item value="bool" priority="3" />
+      <Item value="if" priority="12" />
+      <Item value="var" priority="20" />
+      <Item value="new" priority="31" />
+      <Item value="PropertyChangedEventArgs" priority="0" />
+      <Item value="ProvidePropertyAttribute`0" priority="0" />
+      <Item value="property" priority="0" />
+      <Item value="Func" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="propg" priority="1" />
+      <Item value="return" priority="17" />
+      <Item value="value" priority="2" />
+      <Item value="where" priority="11" />
+      <Item value="class" priority="4" />
+      <Item value="OnPropertyChanged`2" priority="0" />
+      <Item value="vm" priority="0" />
+      <Item value="BaseViewModel" priority="0" />
+      <Item value="Model" priority="2" />
+      <Item value="public" priority="16" />
+      <Item value="string" priority="19" />
+      <Item value="ApplicationException`0" priority="1" />
+      <Item value="Windows" priority="0" />
+      <Item value="WeakReference`0" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="Base64FormattingOptions`0" priority="0" />
+      <Item value="MVVMEventManager`0" priority="0" />
+      <Item value="CurrentManager" priority="1" />
+      <Item value="object" priority="6" />
+      <Item value="IWeakEventListener`0" priority="0" />
+      <Item value="listner" priority="1" />
+      <Item value="source" priority="0" />
+      <Item value="ICommand`0" priority="3" />
+      <Item value="ShowMessage" priority="0" />
+      <Item value="MVVM" priority="0" />
+      <Item value="Commanding" priority="0" />
+      <Item value="MvvmCommand`0" priority="2" />
+      <Item value="dialogService" priority="0" />
+      <Item value="result" priority="3" />
+      <Item value="Order`0" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="order" priority="1" />
+      <Item value="Address`0" priority="2" />
+      <Item value="address" priority="4" />
+      <Item value="true" priority="4" />
+      <Item value="try" priority="4" />
+      <Item value="exception" priority="1" />
+      <Item value="Console`0" priority="1" />
+      <Item value="IUnitOfWork`0" priority="6" />
+      <Item value="unitOfWork" priority="14" />
+      <Item value="UnitOfWork`0" priority="1" />
+      <Item value="ISessionFactory`0" priority="2" />
+      <Item value="sessionFactory" priority="0" />
+      <Item value="SessionFactory`0" priority="5" />
+      <Item value="session" priority="5" />
+      <Item value="Nhibernate" priority="0" />
+      <Item value="ISession`0" priority="3" />
+      <Item value="entity" priority="6" />
+      <Item value="primaryKey" priority="0" />
+      <Item value="factory" priority="6" />
+      <Item value="SessionFactory" priority="0" />
+      <Item value="NHibernate" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="assembly" priority="0" />
+      <Item value="ISessionFactory" priority="0" />
+      <Item value="cfg" priority="0" />
+      <Item value="SessionFactoryConfigurationBase`0" priority="0" />
+      <Item value="Assert`0" priority="4" />
+      <Item value="Is`0" priority="4" />
+      <Item value="OrderLine`0" priority="0" />
+      <Item value="CanCreateACustomer`0" priority="0" />
+      <Item value="Customer" priority="1" />
+      <Item value="customer" priority="7" />
+      <Item value="Contact`0" priority="3" />
+      <Item value="contact" priority="6" />
+      <Item value="Contact" priority="1" />
+      <Item value="Email" priority="0" />
+      <Item value="List&lt;Contact&gt;" priority="0" />
+      <Item value="IRepository`0" priority="4" />
+      <Item value="repository" priority="10" />
+      <Item value="Repository`0" priority="1" />
+      <Item value="Guid`0" priority="1" />
+      <Item value="Has`0" priority="0" />
+      <Item value="tx" priority="1" />
+      <Item value="else" priority="1" />
+      <Item value="DbSet" priority="1" />
+      <Item value="context" priority="0" />
+      <Item value="CrmObjectContext" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Configuration" priority="0" />
+      <Item value="ConfigurationSettings`0" priority="0" />
+      <Item value="connection" priority="1" />
+      <Item value="DbContext`0" priority="9" />
+      <Item value="CrmObjectContext`0" priority="0" />
+      <Item value="GetSession`0" priority="1" />
+      <Item value="override" priority="2" />
+      <Item value="modelBuilder" priority="1" />
+      <Item value="Employee`0" priority="10" />
+      <Item value="Customer`0" priority="7" />
+      <Item value="UnitOfWork" priority="1" />
+      <Item value="employee" priority="4" />
+      <Item value="Employee" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Practices" priority="0" />
+      <Item value="EnterpriseLibrary" priority="0" />
+      <Item value="container" priority="17" />
+      <Item value="UnityContainer" priority="0" />
+      <Item value="INavigator`0" priority="2" />
+      <Item value="Navigator`0" priority="0" />
+      <Item value="IRegionAdapter`0" priority="4" />
+      <Item value="RegionAdapter`0" priority="0" />
+      <Item value="navigator" priority="2" />
+      <Item value="TView`0" priority="9" />
+      <Item value="InjectionConstructor`0" priority="1" />
+      <Item value="as" priority="5" />
+      <Item value="view" priority="13" />
+      <Item value="CenterScreen" priority="1" />
+      <Item value="MainWindow" priority="0" />
+      <Item value="Container" priority="0" />
+      <Item value="InjectionProperty`0" priority="1" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="0" />
+      <Item value="region" priority="7" />
+      <Item value="name" priority="0" />
+      <Item value="regions" priority="0" />
+      <Item value="regionName" priority="3" />
+      <Item value="IUnityContainer`0" priority="1" />
+      <Item value="base" priority="0" />
+      <Item value="regionAdapter" priority="3" />
+      <Item value="CustomersTree`0" priority="0" />
+      <Item value="ProductsTree`0" priority="0" />
+      <Item value="EmployeesTree`0" priority="1" />
+      <Item value="viewModel" priority="4" />
+      <Item value="LostFocus" priority="0" />
+      <Item value="x" priority="2" />
+      <Item value="EmployeesTreeViewModel`0" priority="0" />
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="BirthDate" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="ContactType" priority="0" />
+      <Item value="Name" priority="1" />
+      <Item value="Number" priority="0" />
+      <Item value="Description" priority="1" />
+      <Item value="IsDefault" priority="1" />
+      <Item value="email" priority="0" />
+      <Item value="Address" priority="0" />
+      <Item value="AddressLine1" priority="0" />
+      <Item value="City" priority="0" />
+      <Item value="Country" priority="0" />
+      <Item value="State" priority="0" />
+      <Item value="Town" priority="0" />
+      <Item value="ZipCode" priority="0" />
+      <Item value="TestFixtureSetUpAttribute`0" priority="0" />
+      <Item value="Product`0" priority="7" />
+      <Item value="product01" priority="0" />
+      <Item value="Product" priority="0" />
+      <Item value="AmountInStock" priority="0" />
+      <Item value="Code" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="CreateProducts`0" priority="0" />
+      <Item value="repositoryBase" priority="0" />
+      <Item value="XamlGeneratedNamespace" priority="0" />
+      <Item value="e" priority="2" />
+      <Item value="select" priority="0" />
+      <Item value="OnPropertyChanged`0" priority="1" />
+      <Item value="SelectedEmployeeChanged" priority="0" />
+      <Item value="parm" priority="0" />
+      <Item value="EmployeesContent" priority="0" />
+      <Item value="readonly" priority="1" />
+      <Item value="BindingList" priority="2" />
+      <Item value="selectedProduct" priority="2" />
+      <Item value="SelectedProduct" priority="1" />
+      <Item value="from" priority="1" />
+      <Item value="p" priority="2" />
+      <Item value="SearchText" priority="3" />
+      <Item value="SelectedProductChanged" priority="0" />
+      <Item value="BindingList&lt;Customer&gt;" priority="0" />
+      <Item value="selectedCustomer" priority="2" />
+      <Item value="SelectedCustomer" priority="1" />
+      <Item value="c" priority="2" />
+      <Item value="SelectedCustomerChanged" priority="0" />
+      <Item value="CustomersTreeViewModel`0" priority="1" />
+      <Item value="is" priority="1" />
+      <Item value="ContentControl`0" priority="0" />
+      <Item value="DocumentPane`0" priority="5" />
+      <Item value="DockablePane`0" priority="0" />
+      <Item value="DocumentContent`0" priority="1" />
+      <Item value="panel" priority="5" />
+      <Item value="typeof" priority="0" />
+      <Item value="UserControl`0" priority="2" />
+      <Item value="DockingManager`0" priority="0" />
+      <Item value="DockableContent`0" priority="0" />
+      <Item value="DocumentTabPanel`0" priority="0" />
+      <Item value="TVIew`0" priority="0" />
+      <Item value="Window`0" priority="0" />
+      <Item value="EmployeesTree" priority="0" />
+      <Item value="CustomersTree" priority="0" />
+      <Item value="ProductsTree" priority="0" />
+      <Item value="CustomersContent" priority="0" />
+      <Item value="EmployeeDetails`0" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="title" priority="0" />
+      <Item value="dynamic" priority="0" />
+      <Item value="PersonViewModel`0" priority="0" />
+      <Item value="EmployeeViewModel`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.BaseViewModel`1">
+      <Item value="model" priority="0" />
+      <Item value="PropertyChanged" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WeakEvent.MVVMEventManager">
+      <Item value="ProtectedAddListener`0" priority="0" />
+      <Item value="ProtectedRemoveListener`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.Dialog.IDialogService">
+      <Item value="ShowDialogMessage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Domain.Domain.Customer">
+      <Item value="Orders" priority="2" />
+      <Item value="Addresses" priority="3" />
+      <Item value="FirstName" priority="2" />
+      <Item value="LastName" priority="2" />
+      <Item value="Title" priority="0" />
+      <Item value="Contacts" priority="0" />
+      <Item value="PrimaryKey" priority="1" />
+      <Item value="BirthDate" priority="0" />
+      <Item value="AddContact`0" priority="1" />
+      <Item value="AddOrder`0" priority="0" />
+      <Item value="AddAddress`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Contains`0" priority="1" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Domain.Domain.Address">
+      <Item value="IsDefault" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Dal.Nhibernate.Repository">
+      <Item value="UoW" priority="4" />
+      <Item value="GetSession`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Dal.IUnitOfWork">
+      <Item value="Orm" priority="2" />
+      <Item value="BeginTransaction`0" priority="0" />
+      <Item value="CommitTransaction`0" priority="2" />
+      <Item value="Add`1" priority="0" />
+      <Item value="Update`1" priority="0" />
+      <Item value="Delete`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Save`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="Delete`0" priority="0" />
+      <Item value="Query`1" priority="0" />
+      <Item value="Get`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="ToList`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Dal.Nhibernate.SessionFactory">
+      <Item value="GetUnitOfWork`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Cfg.Configuration">
+      <Item value="BuildSessionFactory`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISessionFactory">
+      <Item value="OpenSession`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Dal.ISessionFactory">
+      <Item value="CurrentUoW" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="Not" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NUnit.Framework.Constraints.ConstraintExpression">
+      <Item value="Null" priority="3" />
+      <Item value="EqualTo`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Domain.Domain.Contact">
+      <Item value="ContactType" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Number" priority="0" />
+      <Item value="Person" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Dal.IRepository">
+      <Item value="AddEntity`1" priority="0" />
+      <Item value="GetList`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Has">
+      <Item value="Property`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NUnit.Framework.Constraints.ResolvableConstraintExpression">
+      <Item value="Not" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ITransaction">
+      <Item value="IsActive" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectContext">
+      <Item value="Attach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationSettings">
+      <Item value="AppSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbContext">
+      <Item value="Set`1" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Find`0" priority="1" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="Attach`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Dal.EF.SessionFactory">
+      <Item value="CurrentUoW" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.ModelBuilder">
+      <Item value="Entity`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.ModelConfiguration.EntityConfiguration`1">
+      <Item value="HasKey`1" priority="0" />
+      <Item value="MapHierarchy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.BL.CustomerFacade">
+      <Item value="Entity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Domain.Domain.Employee">
+      <Item value="FirstName" priority="2" />
+      <Item value="LastName" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WPF.ViewModels.EmployeesTreeViewModel">
+      <Item value="Model" priority="3" />
+      <Item value="repository" priority="0" />
+      <Item value="SearchText" priority="2" />
+      <Item value="SelectedEmployee" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BindingList`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Clear`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WPF.App">
+      <Item value="InitializeServices`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.IUnityContainer">
+      <Item value="RegisterType`0" priority="3" />
+      <Item value="Resolve`0" priority="11" />
+      <Item value="RegisterInstance`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="WindowStartupLocation" priority="1" />
+      <Item value="Show`0" priority="1" />
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ContentControl">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.RegionAdapter">
+      <Item value="container" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WPF.MainWindow">
+      <Item value="container" priority="0" />
+      <Item value="EmployeesContent" priority="0" />
+      <Item value="DocumentsRegion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.IRegionAdapter">
+      <Item value="RegisterRegion`0" priority="1" />
+      <Item value="AddView`1" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WPF.TreeViews.CustomersTree">
+      <Item value="container" priority="0" />
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.Commanding.MvvmCommand">
+      <Item value="AddListner`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CRM.Domain.Domain.ContactType">
+      <Item value="Email" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GalaSoft.MvvmLight.Messaging.Messenger">
+      <Item value="Default" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GalaSoft.MvvmLight.Messaging.Messenger">
+      <Item value="Send`1" priority="0" />
+      <Item value="Register`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WPF.ViewModels.ProductsTreeViewModel">
+      <Item value="repository" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.Domain.Domain.Product">
+      <Item value="Name" priority="0" />
+      <Item value="Code" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WPF.ViewModels.CustomersTreeViewModel">
+      <Item value="repository" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.Navigator">
+      <Item value="regionAdapter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AvalonDock.DocumentContent">
+      <Item value="Title" priority="1" />
+      <Item value="Content" priority="0" />
+      <Item value="Show`0" priority="0" />
+      <Item value="IsActiveDocument" priority="0" />
+      <Item value="Activate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AvalonDock.DocumentPane">
+      <Item value="DockablePanes`0" priority="1" />
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UserControl">
+      <Item value="DataContext" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.INavigator">
+      <Item value="OpenView`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CRM.MVVM.WPF.ViewModels.CustomerViewModel">
+      <Item value="Model" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="GetPropertyValue`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetPropertyValue`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="68EEDC98-6F75-4E51-97FD-CCFDE734F67D/f:SessionFactory.cs" caret="1122" fromTop="24" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/d:Commanding/f:WeakEventManagerBase.cs" caret="78" fromTop="5" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/d:Commanding/f:MVVMCommand.cs" caret="215" fromTop="9" />
+      <File id="68EEDC98-6F75-4E51-97FD-CCFDE734F67D/d:hbm/f:Person.hbm.xml" caret="1119" fromTop="24" />
+      <File id="5ACCFDD2-7533-4D24-9E2E-2FE901CC942B/f:DatabaseFixture.cs" caret="2764" fromTop="15" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/d:Behaviors/f:BindableSelectedItemBehavior.cs" caret="1033" fromTop="18" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:ProductsTreeViewModel.cs" caret="2891" fromTop="7" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:EmployeesTreeViewModel.cs" caret="3136" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:EmployeesTree.xaml" caret="2271" fromTop="13" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:ProductsTree.xaml" caret="2252" fromTop="18" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:CustomersTree.xaml" caret="2719" fromTop="22" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:Resources/f:ImagesDictionary.xaml" caret="1892" fromTop="26" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:MainWindow.xaml" caret="7716" fromTop="22" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:App.xaml.cs" caret="1146" fromTop="19" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:EmployeesTree.xaml.cs" caret="319" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:CustomersTree.xaml.cs" caret="319" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:ProductsTree.xaml.cs" caret="316" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:DetailsView/f:CustomerDetails.xaml.cs" caret="0" fromTop="0" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/d:ViewModel/f:BaseViewModel.cs" caret="667" fromTop="23" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:INavigator.cs" caret="1221" fromTop="31" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:IRegionAdapter.cs" caret="711" fromTop="20" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:Navigator.cs" caret="2848" fromTop="21" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:CustomerViewModel.cs" caret="408" fromTop="16" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:CustomersTreeViewModel.cs" caret="0" fromTop="0" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:PersonViewModel.cs" caret="208" fromTop="7" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:EmployeeViewModel.cs" caret="416" fromTop="17" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:MainWindow.xaml.cs" caret="1453" fromTop="19" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:DetailsView/f:EmployeeDetails.xaml" caret="2097" fromTop="16" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:DetailsView/f:CustomerDetails.xaml" caret="2288" fromTop="11" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:RegionAdapter.cs" caret="2189" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:Navigator.cs" caret="1844" fromTop="27" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:IRegionAdapter.cs" caret="294" fromTop="10" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:RegionAdapter.cs" caret="1889" fromTop="16" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:Navigator.cs" caret="2343" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:App.xaml.cs" caret="1137" fromTop="19" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:MainWindow.xaml.cs" caret="814" fromTop="12" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:App.xaml.cs" caret="1137" fromTop="18" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:App.xaml.cs" caret="1117" fromTop="18" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:EmployeesTree.xaml.cs" caret="319" fromTop="11" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:EmployeesTree.xaml.cs" caret="319" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:CustomersTree.xaml.cs" caret="319" fromTop="10" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:CustomersTree.xaml.cs" caret="319" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:ProductsTree.xaml.cs" caret="316" fromTop="10" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:TreeViews/f:ProductsTree.xaml.cs" caret="316" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:DetailsView/f:CustomerDetails.xaml" caret="4394" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:DetailsView/f:EmployeeDetails.xaml" caret="5823" fromTop="33" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:INavigator.cs" caret="1192" fromTop="18" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:INavigator.cs" caret="828" fromTop="10" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/d:ViewModel/f:BaseViewModel.cs" caret="667" fromTop="23" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:CustomerViewModel.cs" caret="393" fromTop="14" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:PersonViewModel.cs" caret="1494" fromTop="26" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:PersonViewModel.cs" caret="1624" fromTop="30" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:IRegionAdapter.cs" caret="711" fromTop="20" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:RegionAdapter.cs" caret="1606" fromTop="13" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:Navigator.cs" caret="3011" fromTop="25" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:ViewModels/f:EmployeeViewModel.cs" caret="210" fromTop="7" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/f:MainWindow.xaml.cs" caret="1453" fromTop="19" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:DetailsView/f:CustomerDetails.xaml" caret="2283" fromTop="10" />
+      <File id="77BB359A-93CC-4A21-8CB8-0551DD5F4A30/d:DetailsView/f:EmployeeDetails.xaml" caret="2097" fromTop="16" />
+      <File id="623C13D2-001C-4783-961D-6FE16FABCC2C/f:RegionAdapter.cs" caret="2189" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

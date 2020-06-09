@@ -1,0 +1,24 @@
+﻿<vm:Customer 
+    xmlns:vm="clr-namespace:CRM.Domain.Domain;assembly=CRM.Domain"
+    Title="Mr." FirstName="John" 
+    BirthDate="12/31/1970" IsActive="True">
+    <vm:Customer.Contacts>
+        <vm:Contact 
+            Name="Home Phone" ContactType="Phone" 
+            Number="111-11-11" IsDefault="True" />
+        <vm:Contact 
+            Name="Office Phone" ContactType="Phone" 
+            Number="111-22-22" IsDefault="False" />
+        <vm:Contact 
+            Name="Email" ContactType="Email" 
+            Number="john.smith@email.com" IsDefault="False" />
+    </vm:Customer.Contacts>
+    <vm:Customer.Addresses>
+        <vm:Address 
+            AddressLine1="4 Main Street" City="New York" 
+            Country="USA" State="NY" ZipCode="11040" />
+        <vm:Address 
+            AddressLine1="54 The Road" City="Seattle" 
+            Country="USA" State="WA" ZipCode="12000" />
+    </vm:Customer.Addresses>
+</vm:Customer>

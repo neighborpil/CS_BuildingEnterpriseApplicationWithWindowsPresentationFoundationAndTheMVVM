@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping
+  xmlns="urn:nhibernate-mapping-2.2"
+  assembly="CRM.Domain"
+  namespace="CRM.Domain.Domain"
+  default-lazy="false">
+  <class name="Order" abstract="false"
+         table="[Order]">
+    <id name="PrimaryKey">
+      <generator class="guid.comb" />
+    </id>
+    <many-to-one name="Approval" class="Approval" not-null="false" />
+    <many-to-one name="BillAddress" class="Address" not-null="true"/>
+    <many-to-one name="Customer" class="Customer" not-null="true"/>
+    <property name="Date"/>
+    <property name="Description"/>
+    <bag name="OrderLines">
+      <key column="PrimaryKey"/>
+      <one-to-many class="OrderLine"/>
+    </bag>
+    <many-to-one name="ShipmentAddress" class="Address" />
+  </class>
+         
+</hibernate-mapping>

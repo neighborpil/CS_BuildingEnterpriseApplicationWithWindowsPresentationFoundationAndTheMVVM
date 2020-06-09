@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CRM.Domain.Domain.Person">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAADAAAAcAAGAgAAIQAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Domain\Person.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DefaultContact" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Contacts" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CRM.Domain.Domain.Employee" Collapsed="true">
+    <Position X="1.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRM.Domain.Domain.Customer">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAABAgAAAAAAAAAAAQAAAAIAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Domain\Customer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DefaultAddress" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Addresses" />
+      <Property Name="Orders" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CRM.Domain.Domain.Address">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAgAAAAAIAAAAAAAAAAIAAAABAAAABAAQAAA=</HashCode>
+      <FileName>Domain\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRM.Domain.Domain.Contact">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="ContactType" Type="CRM.Domain.Domain.ContactType" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="1" />
+        <Point X="1" Y="1" />
+        <Point X="1" Y="1.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.994" Y="0.591" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAQAAAAAgAAAAAEEAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Contact.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ContactType" />
+      <Property Name="Person" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRM.Domain.Domain.Order">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <AssociationLine Name="Customer" Type="CRM.Domain.Domain.Customer">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.9" Y="0.31" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAEAAgAQAAAAAAQAAAAAAAAAABAAAAAAAAAAE=</HashCode>
+      <FileName>Domain\Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+      <Property Name="Approval" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderLines" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CRM.Domain.Domain.Approval">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <AssociationLine Name="Employee" Type="CRM.Domain.Domain.Employee" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.75" Y="7.196" />
+        <Point X="1.125" Y="7.196" />
+        <Point X="1.125" Y="4.596" />
+        <Point X="1.5" Y="4.596" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Customer" Type="CRM.Domain.Domain.Customer" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="6.75" />
+        <Point X="3.75" Y="5.827" />
+        <Point X="5.25" Y="5.827" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Approval.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Order" />
+      <Property Name="Employee" />
+      <Property Name="Customer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRM.Domain.Domain.OrderLine">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAgAAAAAAAAAACAAAAAQAAAAgAAgAAAAAA=</HashCode>
+      <FileName>Domain\OrderLine.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Order" />
+      <Property Name="Product" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRM.Domain.Domain.Product">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAABgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CRM.Domain.Domain.ContactType" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAgGAAAAAAAAAAAAAAEAAAAACAAAAAIAAAAAA=</HashCode>
+      <FileName>Domain\ContactType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

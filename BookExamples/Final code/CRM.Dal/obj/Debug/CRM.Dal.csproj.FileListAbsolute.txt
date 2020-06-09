@@ -1,0 +1,10 @@
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal\bin\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal\bin\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal\obj\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\Chapter 03\CRM Domain Model\CRM.Dal\obj\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal\bin\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal\bin\Debug\CRM.Dal.pdb
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal\obj\Debug\CRM.Dal.dll
+C:\Users\raffaeu\Desktop\Book\MICROSOFT\MVVM\CRM Domain Model\CRM.Dal\obj\Debug\CRM.Dal.pdb

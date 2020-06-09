@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Entity Framework Unit of Work">
+    <Position X="0.5" Y="0.5" Height="0.49" Width="1.7" />
+  </Comment>
+  <Comment CommentText="The Entity Framework session">
+    <Position X="2.438" Y="4.083" Height="0.49" Width="1.7" />
+  </Comment>
+  <Class Name="CRM.Dal.EF.UnitOfWork">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <AssociationLine Name="orm" Type="System.Data.Objects.ObjectContext">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.596" Y="0.172" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAYAAAABIAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="orm" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Data.Objects.ObjectContext" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Orientation="Left" Position="0.123" />
+  </Class>
+  <Class Name="CRM.Dal.EF.SessionFactory">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <AssociationLine Name="uow" Type="CRM.Dal.IUnitOfWork">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.141" Y="-0.253" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQCAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SessionFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="uow" />
+      <Property Name="CurrentUoW" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CRM.Dal.EF.Repository">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAFAAAAAAAEAAAAAIAAAAAAAAI=</HashCode>
+      <FileName>Repository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UoW" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CRM.Dal.IUnitOfWork" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

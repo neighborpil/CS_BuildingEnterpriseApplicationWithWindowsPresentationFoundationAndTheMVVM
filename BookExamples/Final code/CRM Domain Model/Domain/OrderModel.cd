@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CRM_Domain_Model.Domain.Product">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRM_Domain_Model.Domain.OrderLine">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAgAAAAAAAAAACAAAAAQAAAAgAAgAAAAAA=</HashCode>
+      <FileName>Domain\OrderLine.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Product" />
+      <Property Name="Order" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CRM_Domain_Model.Domain.Order">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Customer" Type="CRM_Domain_Model.Domain.Customer" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.875" Y="2.377" />
+        <Point X="4.875" Y="3.625" />
+        <Point X="3.719" Y="3.625" />
+        <Point X="3.719" Y="4" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.9" Y="0.466" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="ShipmentAddress" Type="CRM_Domain_Model.Domain.Address" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="2.377" />
+        <Point X="5.25" Y="2.752" />
+        <Point X="6.172" Y="2.752" />
+        <Point X="6.172" Y="4" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="BillAddress" Type="CRM_Domain_Model.Domain.Address" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.562" Y="2.377" />
+        <Point X="5.562" Y="2.752" />
+        <Point X="6.656" Y="2.752" />
+        <Point X="6.656" Y="4" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.005" Y="0.081" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAEAAgAQAAAAAAQAAAAAAAAAABAAAAAAAAAAE=</HashCode>
+      <FileName>Domain\Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+      <Property Name="ShipmentAddress" />
+      <Property Name="BillAddress" />
+      <Property Name="Approval" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderLines" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CRM_Domain_Model.Domain.Customer" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRM_Domain_Model.Domain.Address" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAgAAAAAIAAAAAAAAAAIAAAABAAAABAAQAAA=</HashCode>
+      <FileName>Domain\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRM_Domain_Model.Domain.Approval">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Customer" Type="CRM_Domain_Model.Domain.Customer">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.12" Y="0.55" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Status" Type="CRM_Domain_Model.Domain.ApprovalStatus" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="1" />
+        <Point X="1.125" Y="1" />
+        <Point X="1.125" Y="2.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Approval.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+      <Property Name="Order" />
+      <Property Name="Status" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="CRM_Domain_Model.Domain.ApprovalStatus">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAADAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\ApprovalStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

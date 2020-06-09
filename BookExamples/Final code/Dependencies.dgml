@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="TopToBottom" Layout="ForceDirected" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="CodeSchema_Project" ErrorMessage="Unreferenced node detected:CRM.Dal.Nhibernate ((Assembly=&quot;file:///C:/Users/raffaeu/Desktop/Book/Chapter 03/CRM Domain Model/CRM.Dal.Nhibernate/CRM.Dal.Nhibernate.csproj&quot;))" IsDragSource="True" IsUnreferenced="True" Label="CRM.Dal.Nhibernate">
+      <Category Ref="CodeSchema_SourceFile" />
+    </Node>
+    <Node Id="(@2)" Category="CodeSchema_Project" ErrorMessage="Unreferenced node detected:CRM.Dal.EF ((Assembly=&quot;file:///C:/Users/raffaeu/Desktop/Book/Chapter 03/CRM Domain Model/CRM.Dal.EF/CRM.Dal.EF.csproj&quot;))" IsDragSource="True" IsUnreferenced="True" Label="CRM.Dal.EF">
+      <Category Ref="CodeSchema_SourceFile" />
+    </Node>
+    <Node Id="(@3)" Category="CodeSchema_Project" ErrorMessage="Unreferenced node detected:CRM.Dal ((Assembly=&quot;file:///C:/Users/raffaeu/Desktop/Book/Chapter 03/CRM Domain Model/CRM.Dal/CRM.Dal.csproj&quot;))" IsDragSource="True" IsUnreferenced="True" Label="CRM.Dal">
+      <Category Ref="CodeSchema_SourceFile" />
+    </Node>
+    <Node Id="(@4)" Category="CodeSchema_Project" ErrorMessage="Unreferenced node detected:CRM.Domain ((Assembly=&quot;file:///C:/Users/raffaeu/Desktop/Book/Chapter 03/CRM Domain Model/CRM Domain Model/CRM.Domain.csproj&quot;))" IsDragSource="True" IsUnreferenced="True" Label="CRM.Domain">
+      <Category Ref="CodeSchema_SourceFile" />
+    </Node>
+  </Nodes>
+  <Links />
+  <Categories>
+    <Category Id="CodeSchema_Block" Label="Block" BasedOn="CodeSchema_Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Blocks" />
+    <Category Id="CodeSchema_Project" Label="Project" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_SourceFile" Icon="CodeSchema_Project" IsProviderRoot="False" NavigationActionLabel="Projects" />
+    <Category Id="CodeSchema_SourceFile" Label="Source File" BasedOn="File" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="File" IsProviderRoot="False" NavigationActionLabel="Files" />
+    <Category Id="CodeSchema_Statement" Label="Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Statement" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" IsProviderRoot="False" NavigationActionLabel="Files" />
+  </Categories>
+  <Properties>
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="ErrorMessage" Label="Error" Description="Error" DataType="System.String" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Progression.Layout.GraphDirection" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IsDragSource" Label="IsDragSource" Description="IsDragSource" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsUnreferenced" Label="Unreferenced" Description="Node has no links pointing to it from other nodes in the graph" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Unreferenced" ToolTip="Node has no links pointing to it from other nodes in the graph" ValueLabel="True">
+      <Condition Expression="IsUnreferenced" />
+      <Setter Property="Background" Value="Purple" />
+    </Style>
+  </Styles>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(VsSolutionUri)/CRM.Dal.Nhibernate/CRM.Dal.Nhibernate.csproj" />
+    <Alias n="2" Uri="Assembly=$(VsSolutionUri)/CRM.Dal.EF/CRM.Dal.EF.csproj" />
+    <Alias n="3" Uri="Assembly=$(VsSolutionUri)/CRM.Dal/CRM.Dal.csproj" />
+    <Alias n="4" Uri="Assembly=$(VsSolutionUri)/CRM Domain Model/CRM.Domain.csproj" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="VsSolutionUri" Value="file:///C:/Users/raffaeu/Desktop/Book/Chapter 03/CRM Domain Model" />
+  </Paths>
+</DirectedGraph>
